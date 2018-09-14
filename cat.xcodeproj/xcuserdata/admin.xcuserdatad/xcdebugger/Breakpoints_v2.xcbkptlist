@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cat/ViewController.swift"
+            timestampString = "558620681.18809"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cat.ViewController.__deallocating_deinit"
+                  moduleName = "cat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/cat/cat/ViewController.swift"
+                  timestampString = "558620684.796898"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cat.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; cat.ViewController"
+                  moduleName = "cat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/cat/cat/ViewController.swift"
+                  timestampString = "558620684.810019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cat.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; cat.ViewController"
+                  moduleName = "cat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/cat/cat/ViewController.swift"
+                  timestampString = "558620684.819275"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cat.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;cat.ViewController&gt;"
+                  moduleName = "cat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/cat/cat/ViewController.swift"
+                  timestampString = "558620684.8297729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cat.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;cat.ViewController&gt;"
+                  moduleName = "cat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/cat/cat/ViewController.swift"
+                  timestampString = "558620684.838074"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cat/ViewController.swift"
+            timestampString = "558620703.372326"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cat.ViewController.currentImage.getter : Swift.String"
+                  moduleName = "cat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/cat/cat/ViewController.swift"
+                  timestampString = "558620703.382539"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cat.ViewController.currentImage.setter : Swift.String"
+                  moduleName = "cat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/cat/cat/ViewController.swift"
+                  timestampString = "558620703.389987"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cat.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; cat.ViewController"
+                  moduleName = "cat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/cat/cat/ViewController.swift"
+                  timestampString = "558620703.397992"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cat.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;cat.ViewController&gt;"
+                  moduleName = "cat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Downloads/cat/cat/ViewController.swift"
+                  timestampString = "558620703.406256"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
